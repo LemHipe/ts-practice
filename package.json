@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "@fastify/jwt": "^10.0.0",
+    "@fastify/session": "^11.1.0",
+    "@fastify/websocket": "^11.2.0",
+    "dotenv": "^17.2.2",
+    "fastify": "^5.6.0",
+    "fastify-cookie": "^5.7.0",
+    "i": "^0.3.7"
+  },
+  "devDependencies": {
+    "@types/node": "^24.5.2"
+  },
+    "scripts": {
+    "start": "bun index.ts"
+  }
+}
